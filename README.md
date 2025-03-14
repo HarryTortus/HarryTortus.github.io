@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Games or creative programs
 - 📫 How to reach me mickeywilliamsonart@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an art handler and sculptor interested in learing game dev and coding
+- ⚡ Fun fact: I am an art handler and sculptor interested in learing game dev and coding.
+- Check out my website mickeywilliamson3d.com to see my art, games, and other creations.
 
 <!---
 HarryTortus/HarryTortus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
